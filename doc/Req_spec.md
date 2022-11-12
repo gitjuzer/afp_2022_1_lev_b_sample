@@ -10,5 +10,6 @@ Jelenleg mindent papíron kezelünk, és ez hátrányt jelent a versenytársakkal szem
 4. Igényelt üzleti folyamatok modellje
 
 5. Szabályok, szabványok
+GDPR megfelelõség érdekében szükséges adatkezelési tájékoztató, valamint engedély kérés a felhasználótól.
 
 6. Követelménylista
