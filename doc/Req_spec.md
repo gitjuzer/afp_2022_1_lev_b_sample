@@ -5,6 +5,7 @@ Jelenleg mindent papíron kezelünk, és ez hátrányt jelent a versenytársakkal szem
 
 2. Vágyálom rendszer
 Olyan rendszert szeretnénk, amely minden lényeges adatot tárol az ügyfelekrõl.
+Mûködjön a rendszer bármilyen web megjelenítésre képes eszközön.
 
 3. Jelenlegi üzleti folyamatok modellje
 
